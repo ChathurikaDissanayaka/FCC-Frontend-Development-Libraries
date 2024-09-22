@@ -1,1 +1,1 @@
-# FCC Frontend Development Libraries
+# FreeCodeCamp Frontend Development Libraries 
